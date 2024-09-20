@@ -1,0 +1,173 @@
+{
+  "intents": [
+    {
+      "tag": "paracetamol",
+      "patterns": [
+        "Tem paracetamol?",
+        "Qual o estoque de paracetamol?",
+        "Quantos paracetamóis vocês têm?",
+        "Estou precisando de paracetamol, vocês têm?",
+        "Há paracetamol disponível?",
+        "Paracetamol está em estoque?",
+        "Vocês vendem paracetamol?",
+        "Posso encontrar paracetamol aqui?",
+        "Paracetamol está à venda?",
+        "Tem paracetamol na farmácia?",
+        "Como está o estoque de paracetamol?",
+        "Preciso de paracetamol, tem disponível?",
+        "Vocês têm paracetamol em estoque?"
+      ]
+    },
+    {
+      "tag": "ibuprofeno",
+      "patterns": [
+        "Vocês têm ibuprofeno?",
+        "Tem ibuprofeno no estoque?",
+        "Quantos ibuprofenos têm disponíveis?",
+        "Estou precisando de ibuprofeno, tem em estoque?",
+        "Ibuprofeno está disponível?",
+        "Qual o estoque de ibuprofeno?",
+        "Posso comprar ibuprofeno aqui?",
+        "Ibuprofeno está à venda?",
+        "Ibuprofeno ainda está em estoque?",
+        "Tem ibuprofeno nesta farmácia?",
+        "Como está o estoque de ibuprofeno?",
+        "Vocês vendem ibuprofeno?",
+        "Tem ibuprofeno para comprar?"
+      ]
+    },
+    {
+      "tag": "dipirona",
+      "patterns": [
+        "Tem dipirona?",
+        "Qual o estoque de dipirona?",
+        "Quantos frascos de dipirona vocês têm?",
+        "Estou precisando de dipirona, vocês têm?",
+        "Dipirona está em estoque?",
+        "Vocês têm dipirona disponível?",
+        "Há dipirona no estoque?",
+        "Posso comprar dipirona aqui?",
+        "Vocês vendem dipirona?",
+        "Tem dipirona nesta farmácia?",
+        "Tem dipirona à venda?",
+        "Como está o estoque de dipirona?",
+        "Dipirona está disponível para compra?"
+      ]
+    },
+    {
+      "tag": "amoxicilina",
+      "patterns": [
+        "Há amoxicilina no estoque?",
+        "Vocês têm amoxicilina?",
+        "Quantos comprimidos de amoxicilina têm?",
+        "Tem amoxicilina disponível?",
+        "Estou procurando amoxicilina, tem em estoque?",
+        "Amoxicilina está disponível?",
+        "Como está o estoque de amoxicilina?",
+        "Tem amoxicilina à venda?",
+        "Posso encontrar amoxicilina aqui?",
+        "Tem amoxicilina nesta farmácia?",
+        "Vocês vendem amoxicilina?",
+        "Preciso de amoxicilina, tem disponível?"
+      ]
+    },
+    {
+      "tag": "aspirina",
+      "patterns": [
+        "Vocês têm aspirina?",
+        "Tem aspirina no estoque?",
+        "Qual o estoque de aspirina?",
+        "Quantas aspirinas estão disponíveis?",
+        "Estou precisando de aspirina, tem?",
+        "Aspirina está em estoque?",
+        "Posso encontrar aspirina aqui?",
+        "Tem aspirina à venda?",
+        "Como está o estoque de aspirina?",
+        "Vocês vendem aspirina?",
+        "Tem aspirina nesta farmácia?",
+        "Tem aspirina disponível para compra?"
+      ]
+    },
+    {
+      "tag": "cloridrato_de_metformina",
+      "patterns": [
+        "Tem cloridrato de metformina?",
+        "Vocês têm cloridrato de metformina no estoque?",
+        "Qual o estoque de cloridrato de metformina?",
+        "Quantos frascos de cloridrato de metformina têm disponíveis?",
+        "Cloridrato de metformina está em estoque?",
+        "Cloridrato de metformina disponível?",
+        "Vocês vendem cloridrato de metformina?",
+        "Posso encontrar cloridrato de metformina aqui?",
+        "Como está o estoque de cloridrato de metformina?",
+        "Tem cloridrato de metformina à venda?",
+        "Tem cloridrato de metformina nesta farmácia?"
+      ]
+    },
+    {
+      "tag": "omeprazol",
+      "patterns": [
+        "Vocês têm omeprazol?",
+        "Tem omeprazol no estoque?",
+        "Quantos omeprazóis têm?",
+        "Estou precisando de omeprazol, tem em estoque?",
+        "Omeprazol está disponível?",
+        "Qual o estoque de omeprazol?",
+        "Tem omeprazol à venda?",
+        "Posso encontrar omeprazol aqui?",
+        "Vocês vendem omeprazol?",
+        "Como está o estoque de omeprazol?",
+        "Omeprazol está em estoque nesta farmácia?"
+      ]
+    },
+    {
+      "tag": "loratadina",
+      "patterns": [
+        "Vocês têm loratadina?",
+        "Tem loratadina no estoque?",
+        "Quantas loratadinas têm?",
+        "Estou procurando loratadina, tem disponível?",
+        "Loratadina está em estoque?",
+        "Qual o estoque de loratadina?",
+        "Tem loratadina à venda?",
+        "Posso encontrar loratadina aqui?",
+        "Como está o estoque de loratadina?",
+        "Vocês vendem loratadina?",
+        "Loratadina está em estoque nesta farmácia?"
+      ]
+    },
+    {
+      "tag": "insulina",
+      "patterns": [
+        "Tem insulina?",
+        "Vocês têm insulina?",
+        "Qual o estoque de insulina?",
+        "Quantas unidades de insulina estão disponíveis?",
+        "Estou precisando de insulina, tem?",
+        "Insulina está em estoque?",
+        "Vocês vendem insulina?",
+        "Tem insulina disponível para compra?",
+        "Como está o estoque de insulina?",
+        "Posso encontrar insulina aqui?",
+        "Tem insulina à venda?",
+        "Tem insulina nesta farmácia?"
+      ]
+    },
+    {
+      "tag": "azitromicina",
+      "patterns": [
+        "Vocês têm azitromicina?",
+        "Tem azitromicina no estoque?",
+        "Qual o estoque de azitromicina?",
+        "Quantos comprimidos de azitromicina estão disponíveis?",
+        "Azitromicina está disponível?",
+        "Azitromicina está em estoque?",
+        "Posso encontrar azitromicina aqui?",
+        "Tem azitromicina à venda?",
+        "Como está o estoque de azitromicina?",
+        "Vocês vendem azitromicina?",
+        "Tem azitromicina nesta farmácia?"
+      ]
+    }
+  ]
+}
